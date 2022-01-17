@@ -11,7 +11,7 @@ links:
   - label: e-mail
     url: "mailto:eskovgaard@health.sdu.dk"
 output:
-  postcards::trestles
+  postcards::solana
 ---
  
 ## Bio
