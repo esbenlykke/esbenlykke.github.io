@@ -1,0 +1,38 @@
+---
+title: "Esben Lykke"
+image: "profile_pic.png"
+links:
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/esben-lykke/"
+  - label: Github
+    url: "https://github.com/esbenlykke"
+  - label: Twitter
+    url: "https://twitter.com/EsbenLS"
+  - label: e-mail
+    url: "mailto:eskovgaard@health.sdu.dk"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Text on it's way...
+
+Work involves the development of methodologies for the detection of sleep stages in accelerometer data from children using machine learning techniques supervised by Associate Professor Jan Christian Brønd.
+
+
+## Education
+
+University of Southern Denmark | Odense, DK
+
+*2023* PhD in Exercise Epidemiology | Department of Sports Science and Clinical Biomechanics
+
+Aarhus University | Aarhus, DK
+
+*2017* MSc in Sports Science, Human Physiology
+
+*2014* BSc in Sports Science
+
+## Experience
+
+to be updated...
