@@ -1,19 +1,28 @@
 project:
   type: website
+  resources:
+    - keybase.txt
+    - resume.pdf
+    - cv.pdf
 
 website:
-  title: "my-site"
+  title: "Esben Lykke"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Publications"
+        href: publications.html
+      - text: "Presentations"
+        href: presentations
+      - text: "Rando"
+        href: rando.html
+  page-footer:
+    left: "© Copyright 2023 Esben Lykke."
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    page-layout: full
+    theme:
+      dark: slate
+      light: yeti
     toc: true
-
-
-

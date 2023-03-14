@@ -1,0 +1,62 @@
+---
+title: "Publications"
+number-sections: true
+---
+
+[Machine Learned Models for Estimating Sleep Quality Metrics Using Free-Living Accelerometer Data in Comparison to an EEG-based Sleep Tracking Device](https://giphy.com/gifs/DefyTVNetwork-s3-s3e2-willie-tries-losing-weight-5eeeE80SrmPeEE43tJ/fullscreen)(working title...)
+
+Esben Lykke Skovgaard, Jan Christian Brønd et al.
+
+2023 | In midst of writing the manuscript.
+
+[Generalizability and performance of methods to detect non-wear with free-living accelerometer recordings](https://doi.org/10.1038/s41598-023-29666-x) 
+<br> 
+[(Download PDF)](https://www.nature.com/articles/s41598-023-29666-x.pdf)
+
+Esben Lykke Skovgaard, Malthe Roswall, Niels Christian Møller, Anders Grøntved & Jan Christian Brønd
+
+2022 | Submitted to Scientific Reports, currently undergoing peer review
+
+[Manual annotation of time in bed using free-living recordings of accelerometry data](https://doi.org/10.3390/s21248442)
+<br> 
+[(Download PDF)](https://www.mdpi.com/1424-8220/21/24/8442/pdf?version=1639914365)
+
+Esben Lykke Skovgaard, Jesper Pedersen, Niels Christian Møller, Anders Grøntved & Jan Christian Brønd
+
+2021 | Sensors (ISSN 1424-8220) on 14 December 2021
+
+[Recommendations for determining the validity of consumer wearable heart rate devices: expert statement and checklist of the INTERLIVE Network](https://doi.org/10.1136/bjsports-2020-103148) 
+<br> 
+[(Download PDF)](https://bjsm.bmj.com/content/bjsports/55/14/767.full.pdf)
+
+Jan M. Mühlen, Julie Stang, Esben Lykke Skovgaard, Pedro B. Judice, Pablo Molina-Garcia, William Johnston, Luís B. Sardinha, Francisco B. Ortega, Brian Caulfield, Wilhelm Bloch, Sulin Cheng, Ulf Ekelund, Jan Christian Brønd, Anders Grøntved, Moritz Schumann
+
+2020 | British Journal of Sports Medicine. 55, 14, s. 767-779
+
+[Recommendations for determining the validity of consumer wearable and smartphone step count: Expert statement and checklist of the INTERLIVE network](https://doi.org/10.1136/bjsports-2020-103147)
+<br> 
+[(Download PDF)](https://bjsm.bmj.com/content/bjsports/55/14/780.full.pdf)
+
+William Johnston, Pedro B. Judice, Pablo Molina García, Jan M. Mühlen, Esben Lykke Skovgaard, Julie Stang, Moritz Schumann, Shulin Cheng, Wilhelm Bloch, Jan Christian Brønd, Ulf Ekelund, Anders Grøntved, Brian Caulfield, Francisco B. Ortega & Luis B. Sardinha
+
+2020 | British Journal of Sports Medicine. 55, 14, s. 780-793
+
+
+[Unprompted vigorous physical activity is associated with higher levels of subsequent sedentary behaviour in participants with low cardiorespiratory fitness](https://doi.org/10.1080/17461391.2019.1574905)
+<br>(Not open access)
+
+Esben Lykke Skovgaard, Kirstine Obling, Helle Terkildsen Maindal, Cuno Rasmussen, & Kristian Overgaard
+
+2019 | European Journal of Sport Science. 19, 7, s. 1004-1013
+
+[The Applicability of Thigh-Worn vs. Hip-Worn ActiGraph Accelerometers During Walking and Running](https://doi.org/10.1123/jmpb.2018-0043)
+<br>
+(Not open access)
+
+Esben Lykke Skovgaard, Katja Krustrup Pedersen, Ryan Larsen, Mikkel Stengaard, Søren Sørensen, & Kristian Overgaard
+
+2019 | Journal for the Measurement of Physical Behaviour. 2, 4, s. 209-217
+
+
+
+

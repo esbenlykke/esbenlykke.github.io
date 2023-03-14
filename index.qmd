@@ -1,7 +1,29 @@
 ---
-title: "my-site"
+title: "Esben Lykke"
+image: pic.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/esben-lykke/"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/Esben_Lykke"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/esbenlykke"
+    - text: Email
+      icon: email
+      url: "mailto:sesben@hotmail.com"
+    - text: CV
+      url: "cv.pdf"
+comments: false
 ---
 
-This is a Quarto website.
+## Hi!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The name is Esben. I'm currenctly doing a PhD in exercise epidemiology where I’m working to develop machine learned models for use in accelerometry data. Primarily to classify non-wear time and sleep to provide objective and robust estimates of sleep quality on population basis. 
+Take a look around this site to see some of the stuff I use my time on.
