@@ -1,6 +1,9 @@
 ---
 title: "Esben Lykke"
 image: pic.jpg
+format:
+  html:
+    self-contained: true
 about:
   template: trestles
   image-shape: rounded

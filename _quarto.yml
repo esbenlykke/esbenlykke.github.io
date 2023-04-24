@@ -1,16 +1,11 @@
 project:
   type: website
-  resources:
-    - keybase.txt
-    - resume.pdf
-    - cv.pdf
-
 website:
   title: "Esben Lykke"
   navbar:
     right:
       - text: "Home"
-        href: index.qmd
+        href: index.html
       - text: "Publications"
         href: publications/publications.qmd
       - text: "Presentations"
