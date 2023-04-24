@@ -27,3 +27,5 @@ comments: false
 
 The name is Esben. I'm currenctly doing a PhD in exercise epidemiology where I’m working to develop machine learned models for use in accelerometry data. Primarily to classify non-wear time and sleep to provide objective and robust estimates of sleep quality on population basis. 
 Take a look around this site to see some of the stuff I use my time on.
+
+For educational background and experience see my [cv]().

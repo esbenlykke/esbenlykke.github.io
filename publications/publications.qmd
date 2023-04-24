@@ -15,7 +15,7 @@ Esben Lykke Skovgaard, Jan Christian Brønd et al.
 
 Esben Lykke Skovgaard, Malthe Roswall, Niels Christian Møller, Anders Grøntved & Jan Christian Brønd
 
-2022 | Submitted to Scientific Reports, currently undergoing peer review
+2022 | Scientific Reports, 13, Article number: 2496 (2023)
 
 [Manual annotation of time in bed using free-living recordings of accelerometry data](https://doi.org/10.3390/s21248442)
 <br> 

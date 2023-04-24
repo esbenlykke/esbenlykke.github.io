@@ -3,7 +3,6 @@ title: "Drought Index Around the World"
 author:
   - name: Esben Lykke
 date: "09-01-2022"
-image: image.png
 categories: ["R", "Tutorials", "Data science"]
 format: 
   html:
@@ -11,7 +10,7 @@ format:
 engine: knitr
 ---
 
-This was a project to practive reproducible research using snakemake, mamba and github actions.
+This was a project to practice reproducible research using snakemake, mamba and github actions.
 Check out the site [here](https://esbenlykke.github.io/drought_index/). 
 
 ![](image.png)

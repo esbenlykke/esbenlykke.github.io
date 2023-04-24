@@ -10,13 +10,13 @@ website:
   navbar:
     right:
       - text: "Home"
-        href: index.html
+        href: index.qmd
       - text: "Publications"
-        href: publications.html
+        href: publications/publications.qmd
       - text: "Presentations"
-        href: presentations
+        href: presentations.qmd
       - text: "Rando"
-        href: rando.html
+        href: rando.qmd
   page-footer:
     left: "© Copyright 2023 Esben Lykke."
 format:

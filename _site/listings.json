@@ -6,13 +6,9 @@
     ]
   },
   {
-    "listing": "/publications.html",
-    "items": [
-      "/rando/drought_index/drought.html"
-    ]
-  },
-  {
     "listing": "/presentations.html",
-    "items": []
+    "items": [
+      "/presentations/sleep_study/sleep_study.html"
+    ]
   }
 ]

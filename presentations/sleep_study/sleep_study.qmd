@@ -1,0 +1,16 @@
+---
+title: "Slides for the third paper in my PhD"
+author:
+  - name: Esben Lykke
+date: "`r Sys.Date()`"
+categories: ["Research"]
+image: slide_ex.png
+format: 
+  html:
+    toc: true
+engine: knitr
+---
+
+Trying to make sense of the work for my current manuscript. Still very much in development. See slides [here](https://esbenlykke.github.io/my-slides/){target="_blank"}
+
+![](slide_ex.png)
