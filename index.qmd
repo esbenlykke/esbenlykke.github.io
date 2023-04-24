@@ -1,7 +1,6 @@
 ---
 title: "Esben Lykke"
 image: pic.jpg
-output-dir: docs
 about:
   template: trestles
   image-shape: rounded
