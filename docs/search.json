@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Esben Lykke",
     "section": "",
-    "text": "My name is Esben. I’m currenctly doing a PhD in exercise epidemiology where I’m working to develop machine learned models for use in accelerometry data. Primarily to classify non-wear time and sleep to provide objective and robust estimates of sleep quality on population basis. Take a look around this site to see some of the stuff I use my time on.\nFor educational background and experience see my cv."
+    "text": "My name is Esben. I’m currenctly doing a PhD in exercise epidemiology where I’m working to develop machine learned models for use in accelerometry data. Primarily to classify non-wear time and sleep to provide objective and robust estimates of sleep quality on population basis. Take a look around this site to see some of the stuff I use my time on.\n\n\n2023 | PhD in exercise epidemiology 2017 | MS in sports science, human physiology 2014 | BS in sports science\n\n\n\n2018 - 2019 | Research assistant, Department of Sport Science, Aarhus University 2019 | Research Assistant, Department of Sports Science and Clinical Biomechanics, University of Southern Denmark\nFor a detailed overview of my educational background and experience see my cv (coming very soon)."
   },
   {
     "objectID": "rando/drought_index/drought.html",
@@ -47,5 +47,26 @@
     "title": "Publications",
     "section": "",
     "text": "Machine Learned Models for Estimating Sleep Quality Metrics Using Free-Living Accelerometer Data in Comparison to an EEG-based Sleep Tracking Device(working title…)\nEsben Lykke Skovgaard, Jan Christian Brønd et al.\n2023 | In midst of writing the manuscript.\nGeneralizability and performance of methods to detect non-wear with free-living accelerometer recordings  (Download PDF)\nEsben Lykke Skovgaard, Malthe Roswall, Niels Christian Møller, Anders Grøntved & Jan Christian Brønd\n2022 | Scientific Reports, 13, Article number: 2496 (2023)\nManual annotation of time in bed using free-living recordings of accelerometry data  (Download PDF)\nEsben Lykke Skovgaard, Jesper Pedersen, Niels Christian Møller, Anders Grøntved & Jan Christian Brønd\n2021 | Sensors (ISSN 1424-8220) on 14 December 2021\nRecommendations for determining the validity of consumer wearable heart rate devices: expert statement and checklist of the INTERLIVE Network  (Download PDF)\nJan M. Mühlen, Julie Stang, Esben Lykke Skovgaard, Pedro B. Judice, Pablo Molina-Garcia, William Johnston, Luís B. Sardinha, Francisco B. Ortega, Brian Caulfield, Wilhelm Bloch, Sulin Cheng, Ulf Ekelund, Jan Christian Brønd, Anders Grøntved, Moritz Schumann\n2020 | British Journal of Sports Medicine. 55, 14, s. 767-779\nRecommendations for determining the validity of consumer wearable and smartphone step count: Expert statement and checklist of the INTERLIVE network  (Download PDF)\nWilliam Johnston, Pedro B. Judice, Pablo Molina García, Jan M. Mühlen, Esben Lykke Skovgaard, Julie Stang, Moritz Schumann, Shulin Cheng, Wilhelm Bloch, Jan Christian Brønd, Ulf Ekelund, Anders Grøntved, Brian Caulfield, Francisco B. Ortega & Luis B. Sardinha\n2020 | British Journal of Sports Medicine. 55, 14, s. 780-793\nUnprompted vigorous physical activity is associated with higher levels of subsequent sedentary behaviour in participants with low cardiorespiratory fitness (Not open access)\nEsben Lykke Skovgaard, Kirstine Obling, Helle Terkildsen Maindal, Cuno Rasmussen, & Kristian Overgaard\n2019 | European Journal of Sport Science. 19, 7, s. 1004-1013\nThe Applicability of Thigh-Worn vs. Hip-Worn ActiGraph Accelerometers During Walking and Running  (Not open access)\nEsben Lykke Skovgaard, Katja Krustrup Pedersen, Ryan Larsen, Mikkel Stengaard, Søren Sørensen, & Kristian Overgaard\n2019 | Journal for the Measurement of Physical Behaviour. 2, 4, s. 209-217"
+  },
+  {
+    "objectID": "index.html#hi",
+    "href": "index.html#hi",
+    "title": "Esben Lykke",
+    "section": "",
+    "text": "My name is Esben. I’m currenctly doing a PhD in exercise epidemiology where I’m working to develop machine learned models for use in accelerometry data. Primarily to classify non-wear time and sleep to provide objective and robust estimates of sleep quality on population basis. Take a look around this site to see some of the stuff I use my time on.\n\n\n2023 | PhD in exercise epidemiology 2017 | MS in sports science, human physiology 2014 | BS in sports science\n\n\n\n2018 - 2019 | Research assistant, Department of Sport Science, Aarhus University 2019 | Research Assistant, Department of Sports Science and Clinical Biomechanics, University of Southern Denmark\nFor a detailed overview of my educational background and experience see my cv (coming very soon)."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Esben Lykke",
+    "section": "Education",
+    "text": "Education\n2023 | PhD in exercise epidemiology 2017 | MS in sports science, human physiology 2014 | BS in sports science"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Esben Lykke",
+    "section": "Experience",
+    "text": "Experience\n2018 - 2019 | Research assistant, Department of Sport Science, Aarhus University 2019 | Research Assistant, Department of Sports Science and Clinical Biomechanics, University of Southern Denmark\nFor a detailed overview of my educational background and experience see my cv (underway)."
   }
 ]
