@@ -19,7 +19,7 @@ about:
       icon: email
       url: "mailto:sesben@hotmail.com"
     - text: CV
-      url: "cv.pdf"
+      url: "CV.pdf"
 comments: false
 toc: false
 ---
@@ -41,4 +41,4 @@ I'm Esben, currently pursuing a PhD in exercise epidemiology. My work focuses on
 2019 | Research Assistant, Department of Sports Science and Clinical Biomechanics, University
 of Southern Denmark
 
-For a more comprehensive look at my education and experience, check out my [cv](CV.pdf).
+For a more comprehensive look at my education and experience, check out my [CV](CV.pdf).
