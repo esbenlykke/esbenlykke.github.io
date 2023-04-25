@@ -26,8 +26,7 @@ toc: false
 
 ## Hi!
 
-My name is Esben. I'm currenctly doing a PhD in exercise epidemiology where I’m working to develop machine learned models for use in accelerometry data. Primarily to classify non-wear time and sleep to provide objective and robust estimates of sleep quality on population basis. 
-Take a look around this site to see some of the stuff I use my time on.
+I'm Esben, currently pursuing a PhD in exercise epidemiology. My work focuses on developing machine learning models to analyze accelerometry data, specifically for classifying non-wear time and sleep. This helps provide objective and robust assessments of sleep quality at the population level. Feel free to explore this site and discover what I spend my time on.
 
 ### Education
 2023 | PhD in exercise epidemiology
@@ -42,4 +41,4 @@ Take a look around this site to see some of the stuff I use my time on.
 2019 | Research Assistant, Department of Sports Science and Clinical Biomechanics, University
 of Southern Denmark
 
-For a detailed overview of my educational background and experience see my [cv](CV.pdf).
+For a more comprehensive look at my education and experience, check out my [cv](CV.pdf).
