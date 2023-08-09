@@ -3,11 +3,11 @@ title: "Publications"
 number-sections: true
 ---
 
-[Machine Learned Models for Estimating Sleep Quality Metrics Using Free-Living Accelerometer Data in Comparison to an EEG-based Sleep Tracking Device](https://giphy.com/gifs/DefyTVNetwork-s3-s3e2-willie-tries-losing-weight-5eeeE80SrmPeEE43tJ/fullscreen)(working title...)
+[Improving Sleep Quality Estimation: A Comparative Study of Machine Learning and Deep Learning Techniques Utilizing Free-Living Accelerometer Data from Thigh-Worn Devices and EEG-Based Sleep Tracking](https://giphy.com/gifs/DefyTVNetwork-s3-s3e2-willie-tries-losing-weight-5eeeE80SrmPeEE43tJ/fullscreen)(working title...)
 
 Esben Lykke Skovgaard, Jan Christian Brønd et al.
 
-2023 | In midst of writing the manuscript.
+2023 | Submitted to npj Digital Medicine
 
 [Generalizability and performance of methods to detect non-wear with free-living accelerometer recordings](https://doi.org/10.1038/s41598-023-29666-x) 
 <br> 
