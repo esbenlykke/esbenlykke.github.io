@@ -3,7 +3,7 @@ title: "Publications"
 number-sections: true
 ---
 
-[Improving Sleep Quality Estimation: A Comparative Study of Machine Learning and Deep Learning Techniques Utilizing Free-Living Accelerometer Data from Thigh-Worn Devices and EEG-Based Sleep Tracking](https://giphy.com/gifs/DefyTVNetwork-s3-s3e2-willie-tries-losing-weight-5eeeE80SrmPeEE43tJ/fullscreen)(working title...)
+[Improving Sleep Quality Estimation: A Comparative Study of Machine Learning and Deep Learning Techniques Utilizing Free-Living Accelerometer Data from Thigh-Worn Devices and EEG-Based Sleep Tracking](https://giphy.com/gifs/DefyTVNetwork-s3-s3e2-willie-tries-losing-weight-5eeeE80SrmPeEE43tJ/fullscreen)
 
 Esben Lykke Skovgaard, Jan Christian Brønd et al.
 
