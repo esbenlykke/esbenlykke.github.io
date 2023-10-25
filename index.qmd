@@ -19,21 +19,21 @@ about:
       icon: email
       url: "mailto:sesben@hotmail.com"
     - text: CV
-      url: "CV.pdf"
+      url: "cv_esben_lykke.pdf"
 comments: false
 toc: false
 ---
 
 ## Hi!
 
-I'm Esben, currently pursuing a PhD in exercise epidemiology. My work focuses on developing machine learning models to analyze accelerometry data, specifically for classifying non-wear time and sleep. This helps provide objective and robust assessments of sleep quality at the population level. Feel free to explore this site and discover what I spend my time on.
+I recently finished my PhD in exercise epidemiology. My work focused on using machine learning models to analyze accelerometry data, specifically to describe sleep habits among children and adolescents. Feel free to explore this site and discover what I spend my time on. And don't hesitate to contact me.
 
 ### Education
-2023 | PhD in exercise epidemiology
+2023 | PhD in applied machine learning in epidemiology
 
-2017 | MS in sports science, human physiology
+2017 | MS in sports science, epidemiology
 
-2014 | BS in sports science
+2014 | BS in sports science, exercise physiology
 
 ### Experience
 2018 - 2019 | Research assistant, Department of Sport Science, Aarhus University
@@ -41,4 +41,4 @@ I'm Esben, currently pursuing a PhD in exercise epidemiology. My work focuses on
 2019 - 2020 | Research Assistant, Department of Sports Science and Clinical Biomechanics, University
 of Southern Denmark
 
-For a more comprehensive look at my education and experience, check out my [CV](CV.pdf).
+For a more comprehensive look at my education and experience, check out my [CV](cv_esben_lykke.pdf).
