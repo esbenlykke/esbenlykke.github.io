@@ -1,0 +1,14 @@
+---
+title: "Dashboarding"
+author:
+  - name: "Esben Lykke"
+date: last-modified
+format: 
+  html:
+    toc: true
+engine: knitr
+---
+
+Collection of dashboards created for learning purposes.
+
+[Gapminder Quarto dashboard](https://esbenlykke.github.io/dashboarding/)
